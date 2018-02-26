@@ -1,5 +1,5 @@
 
-# Need For Speed: Underground Server
+# Need For Speed: Underground Client and Server
 
 This server was initially developed by [3 PriedeZ](http://3priedez.net)
 
